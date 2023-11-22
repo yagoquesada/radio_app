@@ -1,16 +1,30 @@
-# radio_app
+# Radio App
 
-A new Flutter project.
+A Flutter Radio App 📻.
+
+## Table of Contents
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+List any software or dependencies that users need to have installed before they can use your project. For example:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter: [Installation Guide](https://flutter.dev/docs/get-started/install)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+Provide step-by-step instructions on how users can install and set up your project. Include any necessary commands or configurations. For example:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-project.git
+
