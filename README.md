@@ -39,6 +39,9 @@ Then you are ready to run it!
   flutter run
   ```
 
+[!WARNING] 
+The API used has limited requests when using the free plan, so unless you have a paid subscription to the API, you will get an error screen inside the app.
+
 ## Features
 
 ### 1. Home Screen with Radio Stations
