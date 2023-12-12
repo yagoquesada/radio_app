@@ -47,7 +47,7 @@
     <li><a href="#-usage">Usage</a></li>
     <li><a href="#%EF%B8%8F-features">Features</a></li>
     <li><a href="#-contributing">Contributing</a></li>
-    <li><a href="#%EF%B8%8F-contactt">Contact</a></li>
+    <li><a href="#%EF%B8%8F-contact">Contact</a></li>
   </ol>
 </details>
 
