@@ -91,7 +91,14 @@ Software that users need to have installed before they can use your project.
    
 ## 🙌 Usage
 
-First of all go to YOUR_API_KEY inside [constants.dart](https://github.com/yagoquesada/radio_app/blob/main/lib/core/constants/constants.dart)
+First of all go to apiKey inside [constants.dart](https://github.com/yagoquesada/radio_app/blob/main/lib/core/constants/constants.dart) and change YOUR_API_KEY for your key. 
+
+You can get a key creating an account at [Rapid API](https://rapidapi.com/auth/sign-up?referral=/hub), then subscribing to the Radio World Api [here](https://rapidapi.com/dpthapaliya19/api/radio-world-75-000-worldwide-fm-radio-stations).
+
+> [!NOTE]
+> There are differents subscription, to try you can use the free plan, but if you are planning to use the API frequently, you'll need a paid plan.
+
+Once you are subscirbed to a plan you can see your API key, next to `X-RapidAPI-Key`
 
 Then you are ready to run it!
   ```bash
