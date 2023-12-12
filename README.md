@@ -1,4 +1,5 @@
-<a name="readme-top"></a>
+<a name="top"></a>
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -61,8 +62,7 @@
 
 ### 📸 Screenshots
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## ✅ Getting Started 
 
@@ -87,7 +87,7 @@ Software that users need to have installed before they can use your project.
    flutter pub get
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
    
 ## 🙌 Usage
 
@@ -101,7 +101,7 @@ Then you are ready to run it!
 > [!WARNING] 
 > The API used has limited requests when using the free plan, so unless you have a paid subscription to the API, you will get an error screen inside the app.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## ⚙️ Features
 
@@ -156,7 +156,7 @@ Then you are ready to run it!
 - **Functionality:**
   - Display station name, logo, and additional details.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## 🤝 Contributing
 
@@ -171,15 +171,15 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## ✉️ Contact
 
 Your Name - [@instagram](https://www.instagram.com/yagoquesada/) - yagoquesada2001@gmail.com
 
-Project Link: [https://github.com/yagoquesada/brainy](https://github.com/yagoquesada/brainy)
+Project Link: [https://github.com/yagoquesada/radio_app](https://github.com/yagoquesada/brainy)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Flutter-img]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white
